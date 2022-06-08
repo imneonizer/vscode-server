@@ -86,3 +86,16 @@ Require stack:
 [10:21:48] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/nitin/github/ok)
 [10:21:48] [File Watcher (universal)] gave up attempting to restart watcher after error: Bad file descriptor
 [10:21:54] [File Watcher (parcel)] correcting a path to watch that seems to be a symbolic link or wrong casing (original: /home/nitin/github/, real: /home/nitin/github)
+[10:41:09] [File Watcher (parcel)] correcting a path to watch that seems to be a symbolic link or wrong casing (original: /home/nitin/github/, real: /home/nitin/github)
+[10:49:41] [172.25.0.1][d3bb7cf5][ExtensionHostConnection] Unknown reconnection token (never seen).
+[10:49:41] [172.25.0.1][67132066][ManagementConnection] Unknown reconnection token (never seen).
+[10:49:47] [File Watcher (parcel)] correcting a path to watch that seems to be a symbolic link or wrong casing (original: /home/nitin/github/, real: /home/nitin/github)
+[11:02:44] [172.25.0.1][5c9b343c][ExtensionHostConnection] Unknown reconnection token (never seen).
+[11:02:45] [172.25.0.1][0a0cfa8e][ManagementConnection] Unknown reconnection token (never seen).
+[11:04:06] [File Watcher (parcel)] correcting a path to watch that seems to be a symbolic link or wrong casing (original: /home/nitin/github/, real: /home/nitin/github)
+[11:05:27] [172.25.0.1][cc2488fa][ManagementConnection] Unknown reconnection token (never seen).
+[11:05:27] [172.25.0.1][8e367f39][ExtensionHostConnection] Unknown reconnection token (never seen).
+[11:05:34] [File Watcher (parcel)] correcting a path to watch that seems to be a symbolic link or wrong casing (original: /home/nitin/github/, real: /home/nitin/github)
+[11:06:39] [172.25.0.1][5a9fc42b][ExtensionHostConnection] Unknown reconnection token (never seen).
+[11:06:39] [172.25.0.1][789b0a53][ManagementConnection] Unknown reconnection token (never seen).
+[11:06:42] [File Watcher (parcel)] correcting a path to watch that seems to be a symbolic link or wrong casing (original: /home/nitin/github/, real: /home/nitin/github)

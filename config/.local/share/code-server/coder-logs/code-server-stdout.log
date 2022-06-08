@@ -342,3 +342,76 @@
 [10:21:54] [172.25.0.1][792675c8][ExtensionHostConnection] New connection established.
 [10:21:54] [172.25.0.1][792675c8][ExtensionHostConnection] <998> Launched Extension Host Process.
 [IPC Library: Pty Host]  INFO Persistent process "2": Replaying 582 chars and 1 size events
+[2022-06-08T05:11:03.780Z] info  code-server 4.4.0 b088ec7adf9e17bc75215f79e21498eb40da03ed
+[2022-06-08T05:11:03.782Z] info  Using user-data-dir ~/data
+[2022-06-08T05:11:03.793Z] info  Using config file ~/.config/code-server/config.yaml
+[2022-06-08T05:11:03.793Z] info  HTTP server listening on http://0.0.0.0:8443/ 
+[2022-06-08T05:11:03.793Z] info    - Authentication is enabled
+[2022-06-08T05:11:03.793Z] info      - Using password from $PASSWORD
+[2022-06-08T05:11:03.793Z] info    - Not serving HTTPS 
+[2022-06-08T05:11:03.793Z] info    - Proxying the following domain:
+[2022-06-08T05:11:03.793Z] info      - *.code-server.my.domain
+[10:41:07] Extension host agent started.
+[10:41:08] [172.25.0.1][67132066][ManagementConnection] New connection established.
+[10:41:09] [172.25.0.1][d3bb7cf5][ExtensionHostConnection] New connection established.
+[10:41:09] [172.25.0.1][d3bb7cf5][ExtensionHostConnection] <487> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/usr/bin/bash" and args undefined
+[2022-06-08T05:19:41.449Z] info  code-server 4.4.0 b088ec7adf9e17bc75215f79e21498eb40da03ed
+[2022-06-08T05:19:41.450Z] info  Using user-data-dir ~/data
+[2022-06-08T05:19:41.469Z] info  Using config file ~/.config/code-server/config.yaml
+[2022-06-08T05:19:41.469Z] info  HTTP server listening on http://0.0.0.0:8443/ 
+[2022-06-08T05:19:41.469Z] info    - Authentication is enabled
+[2022-06-08T05:19:41.469Z] info      - Using password from $PASSWORD
+[2022-06-08T05:19:41.469Z] info    - Not serving HTTPS 
+[2022-06-08T05:19:41.469Z] info    - Proxying the following domain:
+[2022-06-08T05:19:41.469Z] info      - *.code-server.my.domain
+[10:49:41] Extension host agent started.
+[10:49:41] Extension host agent started.
+[10:49:47] [172.25.0.1][0a0cfa8e][ManagementConnection] New connection established.
+[10:49:47] [172.25.0.1][5c9b343c][ExtensionHostConnection] New connection established.
+[10:49:47] [172.25.0.1][5c9b343c][ExtensionHostConnection] <498> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/usr/bin/bash" and args undefined
+[2022-06-08T05:32:17.450Z] info  code-server 4.4.0 b088ec7adf9e17bc75215f79e21498eb40da03ed
+[2022-06-08T05:32:17.451Z] info  Using user-data-dir ~/data
+[2022-06-08T05:32:17.467Z] info  Using config file ~/.config/code-server/config.yaml
+[2022-06-08T05:32:17.467Z] info  HTTP server listening on http://0.0.0.0:8443/ 
+[2022-06-08T05:32:17.467Z] info    - Authentication is enabled
+[2022-06-08T05:32:17.468Z] info      - Using password from $PASSWORD
+[2022-06-08T05:32:17.468Z] info    - Not serving HTTPS 
+[2022-06-08T05:32:17.468Z] info    - Proxying the following domain:
+[2022-06-08T05:32:17.468Z] info      - *.code-server.my.domain
+[11:02:44] Extension host agent started.
+[11:04:06] [172.25.0.1][cc2488fa][ManagementConnection] New connection established.
+[11:04:07] [172.25.0.1][8e367f39][ExtensionHostConnection] New connection established.
+[11:04:07] [172.25.0.1][8e367f39][ExtensionHostConnection] <489> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/usr/bin/bash" and args undefined
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/usr/bin/bash" and args undefined
+[2022-06-08T05:35:24.670Z] info  code-server 4.4.0 b088ec7adf9e17bc75215f79e21498eb40da03ed
+[2022-06-08T05:35:24.671Z] info  Using user-data-dir ~/data
+[2022-06-08T05:35:24.687Z] info  Using config file ~/.config/code-server/config.yaml
+[2022-06-08T05:35:24.688Z] info  HTTP server listening on http://0.0.0.0:8443/ 
+[2022-06-08T05:35:24.688Z] info    - Authentication is enabled
+[2022-06-08T05:35:24.688Z] info      - Using password from $PASSWORD
+[2022-06-08T05:35:24.688Z] info    - Not serving HTTPS 
+[2022-06-08T05:35:24.688Z] info    - Proxying the following domain:
+[2022-06-08T05:35:24.688Z] info      - *.code-server.my.domain
+[11:05:27] Extension host agent started.
+[11:05:32] [172.25.0.1][789b0a53][ManagementConnection] New connection established.
+[11:05:34] [172.25.0.1][5a9fc42b][ExtensionHostConnection] New connection established.
+[11:05:34] [172.25.0.1][5a9fc42b][ExtensionHostConnection] <487> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/usr/bin/bash" and args undefined
+[2022-06-08T05:36:35.435Z] info  code-server 4.4.0 b088ec7adf9e17bc75215f79e21498eb40da03ed
+[2022-06-08T05:36:35.436Z] info  Using user-data-dir ~/data
+[2022-06-08T05:36:35.453Z] info  Using config file ~/.config/code-server/config.yaml
+[2022-06-08T05:36:35.453Z] info  HTTP server listening on http://0.0.0.0:8443/ 
+[2022-06-08T05:36:35.453Z] info    - Authentication is enabled
+[2022-06-08T05:36:35.453Z] info      - Using password from $PASSWORD
+[2022-06-08T05:36:35.453Z] info    - Not serving HTTPS 
+[2022-06-08T05:36:35.453Z] info    - Proxying the following domain:
+[2022-06-08T05:36:35.454Z] info      - *.code-server.my.domain
+[11:06:39] Extension host agent started.
+[11:06:41] [172.25.0.1][0b51cb68][ManagementConnection] New connection established.
+[11:06:42] [172.25.0.1][20a10cef][ExtensionHostConnection] New connection established.
+[11:06:42] [172.25.0.1][20a10cef][ExtensionHostConnection] <852> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/usr/bin/bash" and args undefined
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/usr/bin/bash" and args undefined

@@ -1,9 +1,0 @@
-[2022-06-07 20:13:49.377] [remoteagent] [info] 
-
-
-
-
-[2022-06-07 20:13:49.377] [remoteagent] [info] Extension host agent started.
-[2022-06-07 20:13:52.120] [remoteagent] [info] [172.25.0.1][e8a60835][ManagementConnection] New connection established.
-[2022-06-07 20:13:52.669] [remoteagent] [info] [172.25.0.1][2fd7c20a][ExtensionHostConnection] New connection established.
-[2022-06-07 20:13:52.719] [remoteagent] [info] [172.25.0.1][2fd7c20a][ExtensionHostConnection] <475> Launched Extension Host Process.
