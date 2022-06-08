@@ -1,0 +1,42 @@
+[2022-06-08 10:18:21.527] [remoteagent] [info] 
+
+
+
+
+[2022-06-08 10:18:21.527] [remoteagent] [info] Extension host agent started.
+[2022-06-08 10:18:21.915] [remoteagent] [error] [172.25.0.1][efe15437][ExtensionHostConnection] Unknown reconnection token (never seen).
+[2022-06-08 10:18:21.942] [remoteagent] [error] [172.25.0.1][796d98b9][ManagementConnection] Unknown reconnection token (never seen).
+[2022-06-08 10:18:23.333] [remoteagent] [info] [172.25.0.1][0144085d][ManagementConnection] New connection established.
+[2022-06-08 10:18:24.114] [remoteagent] [info] [172.25.0.1][e77a81ae][ExtensionHostConnection] New connection established.
+[2022-06-08 10:18:24.126] [remoteagent] [info] [172.25.0.1][e77a81ae][ExtensionHostConnection] <477> Launched Extension Host Process.
+[2022-06-08 10:18:24.140] [remoteagent] [warning] [File Watcher (parcel)] correcting a path to watch that seems to be a symbolic link or wrong casing (original: /home/nitin/github/, real: /home/nitin/github)
+[2022-06-08 10:18:38.649] [remoteagent] [warning] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: Cannot find module '../build/Release/keytar.node'
+Require stack:
+- /app/code-server/lib/vscode/node_modules/keytar/lib/keytar.js
+- /app/code-server/lib/vscode/out/bootstrap-amd.js
+- /app/code-server/out/node/util.js
+- /app/code-server/out/node/cli.js
+- /app/code-server/out/node/entry.js
+[2022-06-08 10:21:46.812] [remoteagent] [info] [172.25.0.1][0144085d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-08 10:21:46.837] [remoteagent] [info] [172.25.0.1][e77a81ae][ExtensionHostConnection] <477> Extension Host Process exited with code: 0, signal: null.
+[2022-06-08 10:21:47.586] [remoteagent] [info] [172.25.0.1][1e97c67a][ManagementConnection] New connection established.
+[2022-06-08 10:21:48.082] [remoteagent] [info] [172.25.0.1][47159ce6][ExtensionHostConnection] New connection established.
+[2022-06-08 10:21:48.084] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/nitin/github/ok)
+[2022-06-08 10:21:48.084] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-06-08 10:21:48.099] [remoteagent] [info] [172.25.0.1][47159ce6][ExtensionHostConnection] <912> Launched Extension Host Process.
+[2022-06-08 10:21:48.257] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/nitin/github/ok)
+[2022-06-08 10:21:48.257] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-06-08 10:21:48.384] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/nitin/github/ok)
+[2022-06-08 10:21:48.384] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-06-08 10:21:48.527] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/nitin/github/ok)
+[2022-06-08 10:21:48.527] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-06-08 10:21:48.664] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/nitin/github/ok)
+[2022-06-08 10:21:48.664] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-06-08 10:21:48.846] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/nitin/github/ok)
+[2022-06-08 10:21:48.846] [remoteagent] [error] [File Watcher (universal)] gave up attempting to restart watcher after error: Bad file descriptor
+[2022-06-08 10:21:53.790] [remoteagent] [info] [172.25.0.1][1e97c67a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-08 10:21:53.804] [remoteagent] [info] [172.25.0.1][47159ce6][ExtensionHostConnection] <912> Extension Host Process exited with code: 0, signal: null.
+[2022-06-08 10:21:54.224] [remoteagent] [info] [172.25.0.1][ce6ca0a2][ManagementConnection] New connection established.
+[2022-06-08 10:21:54.627] [remoteagent] [info] [172.25.0.1][792675c8][ExtensionHostConnection] New connection established.
+[2022-06-08 10:21:54.638] [remoteagent] [info] [172.25.0.1][792675c8][ExtensionHostConnection] <998> Launched Extension Host Process.
+[2022-06-08 10:21:54.648] [remoteagent] [warning] [File Watcher (parcel)] correcting a path to watch that seems to be a symbolic link or wrong casing (original: /home/nitin/github/, real: /home/nitin/github)

@@ -1,0 +1,9 @@
+[2022-06-07T14:52:35.881Z] Validating found git in: git
+[2022-06-07T14:52:35.917Z] Using git 2.25.1 from git
+[2022-06-07T14:52:35.946Z] > git rev-parse --git-dir [13ms]
+[2022-06-07T14:52:35.952Z] Open repository: /home/nitin/github/job-wale-bhaiya/jwb-ui
+[2022-06-07T14:52:35.974Z] > git symbolic-ref --short HEAD [7ms]
+[2022-06-07T14:52:35.990Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [4ms]
+[2022-06-07T14:52:35.998Z] > git remote --verbose [1ms]
+[2022-06-07T14:52:35.999Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-06-07T14:52:36.006Z] > git config --get commit.template [2ms]

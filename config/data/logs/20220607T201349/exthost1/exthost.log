@@ -1,0 +1,27 @@
+[2022-06-07 20:13:53.420] [exthost] [info] Extension host with pid 475 started
+[2022-06-07 20:13:53.422] [exthost] [error] Error: EEXIST: file already exists, open '/config/data/User/workspaceStorage/-6da1ca2f/vscode.lock'
+[2022-06-07 20:13:53.422] [exthost] [info] Lock '/config/data/User/workspaceStorage/-6da1ca2f/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-06-07 20:13:53.424] [exthost] [info] Lock '/config/data/User/workspaceStorage/-6da1ca2f/vscode.lock': The lock does not look stale, elapsed: 465647 ms, giving up.
+[2022-06-07 20:13:53.424] [exthost] [error] Error: EEXIST: file already exists, open '/config/data/User/workspaceStorage/-6da1ca2f-1/vscode.lock'
+[2022-06-07 20:13:53.424] [exthost] [info] Lock '/config/data/User/workspaceStorage/-6da1ca2f-1/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-06-07 20:13:53.425] [exthost] [info] Lock '/config/data/User/workspaceStorage/-6da1ca2f-1/vscode.lock': The lock does not look stale, elapsed: 379549 ms, giving up.
+[2022-06-07 20:13:53.425] [exthost] [error] Error: EEXIST: file already exists, open '/config/data/User/workspaceStorage/-6da1ca2f-2/vscode.lock'
+[2022-06-07 20:13:53.426] [exthost] [info] Lock '/config/data/User/workspaceStorage/-6da1ca2f-2/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-06-07 20:13:53.426] [exthost] [info] Lock '/config/data/User/workspaceStorage/-6da1ca2f-2/vscode.lock': The lock does not look stale, elapsed: 357868 ms, giving up.
+[2022-06-07 20:13:53.426] [exthost] [error] Error: EEXIST: file already exists, open '/config/data/User/workspaceStorage/-6da1ca2f-3/vscode.lock'
+[2022-06-07 20:13:53.427] [exthost] [info] Lock '/config/data/User/workspaceStorage/-6da1ca2f-3/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-06-07 20:13:53.427] [exthost] [info] Lock '/config/data/User/workspaceStorage/-6da1ca2f-3/vscode.lock': The lock does not look stale, elapsed: 20519 ms, giving up.
+[2022-06-07 20:13:53.427] [exthost] [error] Error: EEXIST: file already exists, open '/config/data/User/workspaceStorage/-6da1ca2f-4/vscode.lock'
+[2022-06-07 20:13:53.428] [exthost] [info] Lock '/config/data/User/workspaceStorage/-6da1ca2f-4/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-06-07 20:13:53.428] [exthost] [info] Lock '/config/data/User/workspaceStorage/-6da1ca2f-4/vscode.lock': The lock does not look stale, elapsed: 509896 ms, giving up.
+[2022-06-07 20:13:53.430] [exthost] [info] Lock '/config/data/User/workspaceStorage/-6da1ca2f-5/vscode.lock': Lock acquired.
+[2022-06-07 20:13:53.485] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-07 20:13:53.489] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-07 20:13:53.492] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-07 20:13:53.546] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-07 20:13:53.613] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-07 20:13:53.652] [exthost] [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.commandsToLog', provide the URI of a resource or 'null' for any resource.
+[2022-06-07 20:13:53.663] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-07 20:13:53.678] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-07 20:13:53.681] [exthost] [info] Eager extensions activated
+[2022-06-07 20:13:53.741] [exthost] [warning] [vscode.emmet] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'emmet.includeLanguages', provide the URI of a resource or 'null' for any resource.

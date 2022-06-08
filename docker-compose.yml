@@ -1,0 +1,16 @@
+version: "2.1"
+services:
+  code-server:
+    image: lscr.io/linuxserver/code-server:4.4.0
+    container_name: code-server
+    env_file:
+      - ./.env
+    volumes:
+      - ./config:/config
+      - ${HOME}:/home/${USER}
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /usr/bin/docker:/usr/bin/docker
+      - /:/host
+    ports:
+      - 8443:8443
+    restart: unless-stopped

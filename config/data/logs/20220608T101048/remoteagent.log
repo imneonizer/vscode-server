@@ -1,0 +1,22 @@
+[2022-06-08 10:10:48.617] [remoteagent] [info] 
+
+
+
+
+[2022-06-08 10:10:48.617] [remoteagent] [info] Extension host agent started.
+[2022-06-08 10:10:52.247] [remoteagent] [info] [172.25.0.1][f5e42f30][ManagementConnection] New connection established.
+[2022-06-08 10:10:52.882] [remoteagent] [info] [172.25.0.1][3a15af54][ExtensionHostConnection] New connection established.
+[2022-06-08 10:10:52.892] [remoteagent] [info] [172.25.0.1][3a15af54][ExtensionHostConnection] <471> Launched Extension Host Process.
+[2022-06-08 10:11:03.149] [remoteagent] [info] [172.25.0.1][f5e42f30][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-08 10:11:03.164] [remoteagent] [info] [172.25.0.1][3a15af54][ExtensionHostConnection] <471> Extension Host Process exited with code: 0, signal: null.
+[2022-06-08 10:11:03.618] [remoteagent] [info] [172.25.0.1][98c79305][ManagementConnection] New connection established.
+[2022-06-08 10:11:03.965] [remoteagent] [info] [172.25.0.1][eb6b498d][ExtensionHostConnection] New connection established.
+[2022-06-08 10:11:03.967] [remoteagent] [warning] [File Watcher (parcel)] correcting a path to watch that seems to be a symbolic link or wrong casing (original: /home/nitin/github/, real: /home/nitin/github)
+[2022-06-08 10:11:03.973] [remoteagent] [info] [172.25.0.1][eb6b498d][ExtensionHostConnection] <540> Launched Extension Host Process.
+[2022-06-08 10:12:58.493] [remoteagent] [warning] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: Cannot find module '../build/Release/keytar.node'
+Require stack:
+- /app/code-server/lib/vscode/node_modules/keytar/lib/keytar.js
+- /app/code-server/lib/vscode/out/bootstrap-amd.js
+- /app/code-server/out/node/util.js
+- /app/code-server/out/node/cli.js
+- /app/code-server/out/node/entry.js

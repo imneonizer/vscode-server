@@ -1,0 +1,13 @@
+[2022-06-08 10:11:04.393] [exthost] [info] Extension host with pid 540 started
+[2022-06-08 10:11:04.397] [exthost] [info] Lock '/config/data/User/workspaceStorage/-46977b82/vscode.lock': Lock acquired.
+[2022-06-08 10:11:04.422] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-08 10:11:04.427] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-08 10:11:04.431] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-08 10:11:04.464] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-08 10:11:04.528] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-08 10:11:04.568] [exthost] [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.commandsToLog', provide the URI of a resource or 'null' for any resource.
+[2022-06-08 10:11:04.579] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-08 10:11:04.594] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-08 10:11:04.598] [exthost] [info] Eager extensions activated
+[2022-06-08 10:11:04.658] [exthost] [warning] [vscode.emmet] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'emmet.includeLanguages', provide the URI of a resource or 'null' for any resource.
+[2022-06-08 10:12:58.408] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'

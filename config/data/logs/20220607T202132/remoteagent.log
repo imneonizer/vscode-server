@@ -1,0 +1,22 @@
+[2022-06-07 20:21:32.150] [remoteagent] [info] 
+
+
+
+
+[2022-06-07 20:21:32.150] [remoteagent] [info] Extension host agent started.
+[2022-06-07 20:21:32.159] [remoteagent] [info] 
+
+
+
+
+[2022-06-07 20:21:32.159] [remoteagent] [info] Extension host agent started.
+[2022-06-07 20:21:32.259] [remoteagent] [error] [172.25.0.1][92ac90e9][ManagementConnection] Unknown reconnection token (never seen).
+[2022-06-07 20:21:32.276] [remoteagent] [error] [172.25.0.1][ab4081ef][ExtensionHostConnection] Unknown reconnection token (never seen).
+[2022-06-07 20:21:33.025] [remoteagent] [info] [172.25.0.1][0e81f42c][ManagementConnection] New connection established.
+[2022-06-07 20:21:33.626] [remoteagent] [info] [172.25.0.1][61aabf2e][ExtensionHostConnection] New connection established.
+[2022-06-07 20:21:33.640] [remoteagent] [info] [172.25.0.1][61aabf2e][ExtensionHostConnection] <477> Launched Extension Host Process.
+[2022-06-07 20:22:33.774] [remoteagent] [info] [172.25.0.1][0e81f42c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-07 20:22:33.793] [remoteagent] [info] [172.25.0.1][61aabf2e][ExtensionHostConnection] <477> Extension Host Process exited with code: 0, signal: null.
+[2022-06-07 20:22:34.518] [remoteagent] [info] [172.25.0.1][34de768d][ManagementConnection] New connection established.
+[2022-06-07 20:22:35.039] [remoteagent] [info] [172.25.0.1][aa99aeb9][ExtensionHostConnection] New connection established.
+[2022-06-07 20:22:35.047] [remoteagent] [info] [172.25.0.1][aa99aeb9][ExtensionHostConnection] <651> Launched Extension Host Process.

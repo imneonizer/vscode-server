@@ -1,0 +1,30 @@
+[2022-06-07 20:14:25.231] [exthost] [info] Extension host with pid 468 started
+[2022-06-07 20:14:25.233] [exthost] [error] Error: EEXIST: file already exists, open '/config/data/User/workspaceStorage/-6da1ca2f/vscode.lock'
+[2022-06-07 20:14:25.234] [exthost] [info] Lock '/config/data/User/workspaceStorage/-6da1ca2f/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-06-07 20:14:25.235] [exthost] [info] Lock '/config/data/User/workspaceStorage/-6da1ca2f/vscode.lock': The lock does not look stale, elapsed: 497458 ms, giving up.
+[2022-06-07 20:14:25.235] [exthost] [error] Error: EEXIST: file already exists, open '/config/data/User/workspaceStorage/-6da1ca2f-1/vscode.lock'
+[2022-06-07 20:14:25.236] [exthost] [info] Lock '/config/data/User/workspaceStorage/-6da1ca2f-1/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-06-07 20:14:25.236] [exthost] [info] Lock '/config/data/User/workspaceStorage/-6da1ca2f-1/vscode.lock': The lock does not look stale, elapsed: 411360 ms, giving up.
+[2022-06-07 20:14:25.237] [exthost] [error] Error: EEXIST: file already exists, open '/config/data/User/workspaceStorage/-6da1ca2f-2/vscode.lock'
+[2022-06-07 20:14:25.237] [exthost] [info] Lock '/config/data/User/workspaceStorage/-6da1ca2f-2/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-06-07 20:14:25.237] [exthost] [info] Lock '/config/data/User/workspaceStorage/-6da1ca2f-2/vscode.lock': The lock does not look stale, elapsed: 389679 ms, giving up.
+[2022-06-07 20:14:25.237] [exthost] [error] Error: EEXIST: file already exists, open '/config/data/User/workspaceStorage/-6da1ca2f-3/vscode.lock'
+[2022-06-07 20:14:25.238] [exthost] [info] Lock '/config/data/User/workspaceStorage/-6da1ca2f-3/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-06-07 20:14:25.238] [exthost] [info] Lock '/config/data/User/workspaceStorage/-6da1ca2f-3/vscode.lock': The lock does not look stale, elapsed: 52330 ms, giving up.
+[2022-06-07 20:14:25.239] [exthost] [error] Error: EEXIST: file already exists, open '/config/data/User/workspaceStorage/-6da1ca2f-4/vscode.lock'
+[2022-06-07 20:14:25.239] [exthost] [info] Lock '/config/data/User/workspaceStorage/-6da1ca2f-4/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-06-07 20:14:25.239] [exthost] [info] Lock '/config/data/User/workspaceStorage/-6da1ca2f-4/vscode.lock': The lock does not look stale, elapsed: 541707 ms, giving up.
+[2022-06-07 20:14:25.240] [exthost] [error] Error: EEXIST: file already exists, open '/config/data/User/workspaceStorage/-6da1ca2f-5/vscode.lock'
+[2022-06-07 20:14:25.240] [exthost] [info] Lock '/config/data/User/workspaceStorage/-6da1ca2f-5/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-06-07 20:14:25.240] [exthost] [info] Lock '/config/data/User/workspaceStorage/-6da1ca2f-5/vscode.lock': The lock does not look stale, elapsed: 8807 ms, giving up.
+[2022-06-07 20:14:25.242] [exthost] [info] Lock '/config/data/User/workspaceStorage/-6da1ca2f-6/vscode.lock': Lock acquired.
+[2022-06-07 20:14:25.291] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-07 20:14:25.296] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-07 20:14:25.300] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-07 20:14:25.346] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-07 20:14:25.408] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-07 20:14:25.447] [exthost] [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.commandsToLog', provide the URI of a resource or 'null' for any resource.
+[2022-06-07 20:14:25.459] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-07 20:14:25.474] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-07 20:14:25.477] [exthost] [info] Eager extensions activated
+[2022-06-07 20:14:25.547] [exthost] [warning] [vscode.emmet] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'emmet.includeLanguages', provide the URI of a resource or 'null' for any resource.

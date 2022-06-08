@@ -1,0 +1,14 @@
+[2022-06-07 20:24:25.489] [exthost] [info] Extension host with pid 473 started
+[2022-06-07 20:24:25.491] [exthost] [error] Error: EEXIST: file already exists, open '/config/data/User/workspaceStorage/7e5a23e9/vscode.lock'
+[2022-06-07 20:24:25.492] [exthost] [info] Lock '/config/data/User/workspaceStorage/7e5a23e9/vscode.lock': Lock acquired.
+[2022-06-07 20:24:25.532] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-07 20:24:25.537] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-07 20:24:25.540] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-07 20:24:25.556] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-06-07 20:24:25.700] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-07 20:24:25.768] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-07 20:24:25.831] [exthost] [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.commandsToLog', provide the URI of a resource or 'null' for any resource.
+[2022-06-07 20:24:25.931] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-07 20:24:25.950] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-07 20:24:25.954] [exthost] [info] Eager extensions activated
+[2022-06-07 20:24:25.962] [exthost] [warning] [vscode.emmet] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'emmet.includeLanguages', provide the URI of a resource or 'null' for any resource.
