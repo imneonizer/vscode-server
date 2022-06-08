@@ -1,0 +1,19 @@
+[2022-06-08 11:22:11.557] [remoteagent] [info] 
+
+
+
+
+[2022-06-08 11:22:11.557] [remoteagent] [info] Extension host agent started.
+[2022-06-08 11:22:12.244] [remoteagent] [info] [172.25.0.1][57fd5d37][ManagementConnection] New connection established.
+[2022-06-08 11:22:12.785] [remoteagent] [info] [172.25.0.1][1a29aa78][ExtensionHostConnection] New connection established.
+[2022-06-08 11:22:12.794] [remoteagent] [info] [172.25.0.1][1a29aa78][ExtensionHostConnection] <433> Launched Extension Host Process.
+[2022-06-08 11:24:17.201] [remoteagent] [info] Getting Manifest... cweijan.vscode-ssh
+[2022-06-08 11:24:19.498] [remoteagent] [info] Installing extension: cweijan.vscode-ssh
+[2022-06-08 11:24:23.329] [remoteagent] [info] Downloaded extension: cweijan.vscode-ssh /config/data/CachedExtensionVSIXs/cweijan.vscode-ssh-1.7.6
+[2022-06-08 11:24:23.394] [remoteagent] [info] Extracted extension to /config/extensions/.4388e534-10ad-4b83-8ae3-eeb327b81584: cweijan.vscode-ssh
+[2022-06-08 11:24:23.398] [remoteagent] [info] Renamed to /config/extensions/cweijan.vscode-ssh-1.7.6
+[2022-06-08 11:24:23.399] [remoteagent] [info] Extracting completed. cweijan.vscode-ssh
+[2022-06-08 11:24:23.399] [remoteagent] [info] Extension installed successfully: cweijan.vscode-ssh
+[2022-06-08 11:26:35.994] [remoteagent] [info] Uninstalling extension: cweijan.vscode-ssh
+[2022-06-08 11:26:36.106] [remoteagent] [info] Detected extension removed from another source cweijan.vscode-ssh
+[2022-06-08 11:26:37.160] [remoteagent] [info] Successfully uninstalled extension: cweijan.vscode-ssh

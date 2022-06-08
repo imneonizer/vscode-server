@@ -1,9 +1,9 @@
 {
   "query": {
-    "folder": "/home/nitin/github/"
+    "folder": "/home"
   },
   "update": {
-    "checked": 1654611872844,
+    "checked": 1654667512601,
     "version": "4.4.0"
   }
 }
